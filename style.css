@@ -1,0 +1,19 @@
+
+body{
+    background-color: aqua;
+}
+#clickMe{
+    position: absolute;
+    right: 50%;
+    top: 30%;
+}
+#text{
+    position: absolute;
+    right: 710px;
+    bottom: 70%;
+}
+#mutiplyer{
+    position: absolute;
+    left: 40%;
+    top: 30%;
+}
